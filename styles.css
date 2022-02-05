@@ -116,3 +116,16 @@ input {
   height: 100%;
   z-index: 1;
 }
+.end-game-container h1 {
+  padding-bottom: 20px;
+  font-size: 2.5rem;
+}
+.end-game-container p {
+  padding-bottom: 20px;
+  font-size: 1.5rem
+}
+.reload-btn {
+  border-radius: 7px;
+  padding: 0.5rem 0.75rem;
+  font-size: 1.2rem;
+}
